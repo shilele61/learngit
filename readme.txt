@@ -1,4 +1,0 @@
-Git is a distributed version control system.
-test
-update
-zaijiayihang
